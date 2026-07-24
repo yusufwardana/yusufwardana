@@ -8,7 +8,7 @@
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=500&lines=const+dev+%3D+%22Yusuf+Wardana%22%3B;import+%7B+passion+%7D+from+%22code%22%3B;while(true)+%7B+build()%3B+ship()%3B+learn()%3B+%7D;%2F%2F+currently+online+%F0%9F%9F%A2" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7AA2F7&background=0D1117&center=true&vCenter=true&width=500&lines=const+dev+%3D+%22Yusuf+Wardana%22%3B;import+%7B+passion+%7D+from+%22code%22%3B;while(true)+%7B+build()%3B+ship()%3B+learn()%3B+%7D;%2F%2F+currently+online+%F0%9F%9F%A2" alt="Typing SVG" />
 
 </div>
 
@@ -56,14 +56,14 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats-eight-rho.vercel.app/api?username=yusufwardana&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9&ring_color=39FF14" />
-<img height="160" src="https://github-readme-stats-eight-rho.vercel.app/api/top-langs/?username=yusufwardana&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9" />
+<img height="160" src="https://github-readme-stats-eight-rho.vercel.app/api?username=yusufwardana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=7AA2F7&text_color=C9D1D9&ring_color=7AA2F7" />
+<img height="160" src="https://github-readme-stats-eight-rho.vercel.app/api/top-langs/?username=yusufwardana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=C9D1D9" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufwardana&theme=merko&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufwardana&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7" />
 
 </div>
 
