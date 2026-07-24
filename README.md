@@ -56,8 +56,8 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=yusufwardana&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9&ring_color=39FF14" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufwardana&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9" />
+<img height="160" src="https://github-readme-stats-eight-rho.vercel.app/api?username=yusufwardana&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9&ring_color=39FF14" />
+<img height="160" src="https://github-readme-stats-eight-rho.vercel.app/api/top-langs/?username=yusufwardana&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9" />
 
 </div>
 
@@ -74,15 +74,13 @@
 ```
 PING yusuf.dev ...
 > GitHub   ──────── github.com/yusufwardana     [✓ CONNECTED]
-> LinkedIn ──────── linkedin.com/in/yusufwardana [○ ADD YOURS]
-> Instagram ─────── @yusufwardana               [○ ADD YOURS]
+> Instagram ─────── instagram.com/ysvwardana    [✓ CONNECTED]
 ```
 
 <div align="left">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yusufwardana)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ysvwardana)
 
 </div>
 
