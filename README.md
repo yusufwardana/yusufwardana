@@ -1,37 +1,30 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║  yusuf@wardana:~$ whoami                                 ║
-║  > Indie Coder. Web Developer. Night Owl.                ║
-║  yusuf@wardana:~$ _                                      ║
-╚══════════════════════════════════════════════════════════╝
-```
+# Yusuf Wardana
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7AA2F7&background=0D1117&center=true&vCenter=true&width=500&lines=const+dev+%3D+%22Yusuf+Wardana%22%3B;impor[...]
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](./LICENSE)
+
+**Indie Web Developer · JavaScript · React · Node.js**
 
 </div>
 
 ---
 
-## `$ cat about.txt`
+## Tentang saya
 
-```bash
-{
-  "name"      : "Yusuf Wardana",
-  "role"      : "Indie Web Developer",
-  "location"  : "Building in the dark 🌙",
-  "status"    : "⚡ Shipping side projects",
-  "focus"     : ["JavaScript", "React", "Node.js"],
-  "fun_fact"  : "Peak productivity = 1AM + headphones + coffee"
-}
-```
+Saya Yusuf Wardana — indie web developer yang suka membangun proyek sampingan. Ini adalah repositori profil saya (README personal), bukan sebuah aplikasi atau paket yang bisa dijalankan.
 
----
+## Ringkasan singkat
 
-## `$ ls ./tech-stack/`
+- Nama: Yusuf Wardana
+- Peran: Indie Web Developer
+- Lokasi: Building in the dark 🌙
+- Status: Shipping side projects
+- Fokus: JavaScript, React, Node.js
 
-**▸ Frontend**
+## Tech stack
+
+**Frontend**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -39,51 +32,29 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-**▸ Backend**
+**Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**▸ Tools**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## `$ git log --stat`
+## Koneksi
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufwardana&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7" />
-
-</div>
+[GitHub](https://github.com/yusufwardana) • [Instagram](https://instagram.com/ysvwardana)
 
 ---
 
-## `$ ping ./connect`
+## Catatan
 
-```
-PING yusuf.dev ...
-> GitHub   ──────── github.com/yusufwardana     [✓ CONNECTED]
-> Instagram ─────── instagram.com/ysvwardana    [✓ CONNECTED]
-```
-
-<div align="left">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yusufwardana)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ysvwardana)
-
-</div>
+Repositori ini berfungsi sebagai profil singkat. Jika Anda ingin saya mengubah repositori ini menjadi proyek starter (mis. Next.js + Tailwind) atau menambahkan CI / LICENSE lain, beri tahu saya dan saya akan buat branch terpisah untuk perubahan tersebut.
 
 ---
 
-<div align="center">
-
-```
-// thanks for visiting. now go build something cool.
-process.exit(0);
-```
-
-</div>
+*Terima kasih sudah mampir — sekarang ayo bangun sesuatu yang keren.*
