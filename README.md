@@ -1,5 +1,7 @@
 <div align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=yusufwardana&color=7AA2F7&style=flat-square)
+
 ```
 ╔═══════════════════════════════════════════════════════════╗
 ║  yusuf@wardana:~$ whoami                                  ║
@@ -34,6 +36,18 @@
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=yusufwardana&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7)](https://github.com/yusufwardana)
+
+```
+╔════════════════════════════════════════════════════════╗
+║  🎯 GitHub Achievements                               ║
+╠════════════════════════════════════════════════════════╣
+║  📦 35+ repositories                                   ║
+║  🔥 Full-stack development across multiple tech       ║
+║  🌍 Open source & AI-powered projects                 ║
+║  🚀 Always shipping new ideas                         ║
+║  📚 Learning new technologies constantly              ║
+╚════════════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -70,31 +84,20 @@
 
 | Project | Description | Tech | Link |
 |---------|-------------|------|------|
-| **0xKeinara** | Full-stack web app - Baby steps to mastery | TypeScript, React | [View →](https://github.com/yusufwardana/0xKeinara) |
-| **CosmicLabs** | Creative portfolio & project showcase | JavaScript | [View →](https://github.com/yusufwardana/cosmiclabs) |
-| **eLibrary** | Digital library management system | TypeScript | [View →](https://github.com/yusufwardana/elibrary) |
-| **CosmicLibrary** | Reusable library engine & components | PHP | [View →](https://github.com/yusufwardana/cosmiclibrary) |
-| **Anti-Slop** | AI filtering rules for quality code generation | MIT Licensed | [View →](https://github.com/yusufwardana/anti-slop) |
+| **HexStrike AI** | 🛡️ AI agents for 150+ cybersecurity tools & pentesting | MCP, Python | [View →](https://github.com/yusufwardana/hexstrike-ai) |
+| **Anti-Slop** | 🎯 Rules to filter low-quality AI-generated code | MIT Licensed | [View →](https://github.com/yusufwardana/anti-slop) |
+| **Prompts.Chat** | 💬 Open-source AI prompt sharing platform | React, Node.js | [View →](https://github.com/yusufwardana/prompts.chat) |
+| **0xKeinara** | 🎓 Full-stack web app - mastery journey | TypeScript, React | [View →](https://github.com/yusufwardana/0xKeinara) |
+| **CosmicLabs** | 🎨 Creative portfolio & project showcase | JavaScript | [View →](https://github.com/yusufwardana/cosmiclabs) |
 
 ### 🔗 Other Notable Projects
 
-- 🗺️ [Google Maps Scraper](https://github.com/yusufwardana/google-maps-scraper) - Self-hosted multi-category scraper
-- 🛡️ [HexStrike AI](https://github.com/yusufwardana/hexstrike-ai) - MCP Agents for cybersecurity automation
-- 🤖 [Free Claude Code](https://github.com/yusufwardana/free-claude-code) - Terminal access to Claude Code
-- 💬 [Prompts.Chat](https://github.com/yusufwardana/prompts.chat) - Open-source prompt sharing platform
-- 🔄 [KaraSync](https://github.com/yusufwardana/karasync) - Sync utility with TypeScript
-
----
-
-## 📈 Quick Stats
-
-```
-📦 30+ repositories created
-🔥 Full-stack projects from frontend to backend
-🌱 Open source contributions & tools
-📚 Always learning new technologies
-🚀 Shipping ideas into production
-```
+- 🗺️ [Google Maps Scraper](https://github.com/yusufwardana/google-maps-scraper) - Self-hosted multi-category scraper with email enrichment
+- 🤖 [Free Claude Code](https://github.com/yusufwardana/free-claude-code) - Terminal & VSCode access to Claude AI
+- 📚 [eLibrary](https://github.com/yusufwardana/elibrary) - Digital library management system
+- 🎬 [MemVid](https://github.com/yusufwardana/memvid) - AI memory library using MP4 video files
+- 🔄 [KaraSync](https://github.com/yusufwardana/karasync) - Data synchronization utility
+- 📁 [CosmicLibrary](https://github.com/yusufwardana/cosmiclibrary) - Reusable PHP library engine
 
 ---
 
@@ -110,6 +113,23 @@
 
 ---
 
+## 🎯 Getting Involved
+
+Interested in my projects? Here's how you can help:
+
+- 🐛 **Report bugs** - Found an issue? Let me know
+- ⭐ **Star projects** - Love a project? Give it a star
+- 💡 **Suggest features** - Have ideas? Open an issue
+- 📝 **Contribute code** - Check [CONTRIBUTING.md](./CONTRIBUTING.md) guides
+- 🤝 **Collaborate** - Let's build something cool together
+
+**Want to contribute?** Check out these projects with contribution guides:
+- [HexStrike AI - CONTRIBUTING.md](https://github.com/yusufwardana/hexstrike-ai/blob/main/CONTRIBUTING.md)
+- [Anti-Slop - CONTRIBUTING.md](https://github.com/yusufwardana/anti-slop/blob/main/CONTRIBUTING.md)
+- [Prompts.Chat - CONTRIBUTING.md](https://github.com/yusufwardana/prompts.chat/blob/main/CONTRIBUTING.md)
+
+---
+
 <div align="center">
 
 ```
@@ -121,5 +141,7 @@ process.exit(0);
 ```
 
 **Last updated:** 2026-09-08 | Made with ❤️ by Yusuf Wardana
+
+[⬆ Back to top](#)
 
 </div>
