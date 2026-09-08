@@ -8,7 +8,7 @@
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7AA2F7&background=0D1117&center=true&vCenter=true&width=600&lines=const+dev+%3D+%22Yusuf+Wardana%22%3B;Building+cool+things+with+code;JavaScript%2C+React%2C+Node.js;Shipping+side+projects+%F0%9F%9A%80)](https://github.com/yusufwardana)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7AA2F7&background=0D1117&center=true&vCenter=true&width=600&lines=const+dev+%3D+%22Yusuf+Wardana%22;Building+cool+things+with+code;JavaScript%2C+React%2C+Node.js;Shipping+side+projects+%F0%9F%9A%80)](https://github.com/yusufwardana)
 
 </div>
 
@@ -33,9 +33,9 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yusufwardana&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yusufwardana&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7)](https://github.com/yusufwardana)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufwardana&theme=tokyonight&hide_border=true&background=0D1117&title_color=7AA2F7&text_color=ffffff&langs_count=8)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=yusufwardana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=ffffff)](https://github.com/yusufwardana)
 
 </div>
 
