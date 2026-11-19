@@ -1,147 +1,111 @@
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=yusufwardana&color=7AA2F7&style=flat-square)
+# Hi, I'm Yusuf Wardana 👋
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║  yusuf@wardana:~$ whoami                                  ║
-║  > Indie Coder. Full-Stack Developer. Night Owl. 🌙       ║
-║  yusuf@wardana:~$ _                                       ║
-╚═══════════════════════════════════════════════════════════╝
-```
+[![GitHub followers](https://img.shields.io/github/followers/yusufwardana?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=7AA2F7)](https://github.com/yusufwardana)
+[![Profile Views](https://komarev.com/ghpvc/?username=yusufwardana&color=7AA2F7&style=for-the-badge)](https://github.com/yusufwardana)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7AA2F7&background=0D1117&center=true&vCenter=true&width=600&lines=const+dev+%3D+%22Yusuf+Wardana%22;Building+cool+things+with+code;JavaScript%2C+React%2C+Node.js;Shipping+side+projects+%F0%9F%9A%80)](https://github.com/yusufwardana)
+**Indie Coder • Full-Stack Developer • Building tools for humans and AI agents**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;AI-powered+Projects;Open-Source+Builder;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## `$ cat about.txt`
+## About
 
-```json
-{
-  "name"      : "Yusuf Wardana",
-  "role"      : "Full-Stack Web Developer",
-  "focus"     : ["JavaScript", "TypeScript", "React", "Node.js"],
-  "location"  : "🌙 Building in the dark",
-  "status"    : "⚡ Shipping side projects & learning new tech",
-  "fun_fact"  : "Peak productivity = 1AM + headphones + ☕"
-}
+```text
+const yusuf = {
+  role: "Full-Stack Web Developer",
+  interests: ["Web Development", "AI", "Developer Tools", "Open Source"],
+  currentlyBuilding: "Useful software and creative projects",
+  principles: ["Ship consistently", "Keep learning", "Build in public"]
+};
 ```
+
+I enjoy turning ideas into practical applications, experimenting with AI, and creating tools that make work easier.
 
 ---
 
-## 📊 GitHub Stats
+## Tech Stack
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=yusufwardana&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7)](https://github.com/yusufwardana)
-
-```
-╔════════════════════════════════════════════════════════╗
-║  🎯 GitHub Achievements                               ║
-╠════════════════════════════════════════════════════════╣
-║  📦 35+ repositories                                   ║
-║  🔥 Full-stack development across multiple tech       ║
-║  🌍 Open source & AI-powered projects                 ║
-║  🚀 Always shipping new ideas                         ║
-║  📚 Learning new technologies constantly              ║
-╚════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## 💻 Languages & Tools
-
-**▸ Frontend Development**
+### Frontend
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAF8)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**▸ Backend & Databases**
+### Backend & Data
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**▸ Tools & Platforms**
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-| Project | Description | Tech | Link |
-|---------|-------------|------|------|
-| **HexStrike AI** | 🛡️ AI agents for 150+ cybersecurity tools & pentesting | MCP, Python | [View →](https://github.com/yusufwardana/hexstrike-ai) |
-| **Anti-Slop** | 🎯 Rules to filter low-quality AI-generated code | MIT Licensed | [View →](https://github.com/yusufwardana/anti-slop) |
-| **Prompts.Chat** | 💬 Open-source AI prompt sharing platform | React, Node.js | [View →](https://github.com/yusufwardana/prompts.chat) |
-| **0xKeinara** | 🎓 Full-stack web app - mastery journey | TypeScript, React | [View →](https://github.com/yusufwardana/0xKeinara) |
-| **CosmicLabs** | 🎨 Creative portfolio & project showcase | JavaScript | [View →](https://github.com/yusufwardana/cosmiclabs) |
+| Project | About | Stack |
+|:--|:--|:--|
+| [**Cosmic Forge**](https://github.com/yusufwardana/cosmic-forge) | Git forge with Git smart HTTP, REST, GraphQL, and MCP support | JavaScript |
+| [**REA**](https://github.com/yusufwardana/rea) | Reverse-engineering workspace powered by AI agents | TypeScript |
+| [**Stickman Video Director**](https://github.com/yusufwardana/stickman-video-director) | Create animated stickman videos from scripts | JavaScript |
+| [**Rewang**](https://github.com/yusufwardana/rewang) | TypeScript project for the Rewang ecosystem | TypeScript |
+| [**HexStrike AI**](https://github.com/yusufwardana/hexstrike-ai) | MCP server for AI-assisted security and pentesting workflows | Python, MCP |
+| [**Anti-Slop**](https://github.com/yusufwardana/anti-slop) | Rules for reducing generic, low-quality AI-generated code | Markdown |
+| [**Prompts.Chat**](https://github.com/yusufwardana/prompts.chat) | Open-source platform for discovering and sharing prompts | React, Node.js |
 
-### 🔗 Other Notable Projects
+### More Projects
 
-- 🗺️ [Google Maps Scraper](https://github.com/yusufwardana/google-maps-scraper) - Self-hosted multi-category scraper with email enrichment
-- 🤖 [Free Claude Code](https://github.com/yusufwardana/free-claude-code) - Terminal & VSCode access to Claude AI
-- 📚 [eLibrary](https://github.com/yusufwardana/elibrary) - Digital library management system
-- 🎬 [MemVid](https://github.com/yusufwardana/memvid) - AI memory library using MP4 video files
-- 🔄 [KaraSync](https://github.com/yusufwardana/karasync) - Data synchronization utility
-- 📁 [CosmicLibrary](https://github.com/yusufwardana/cosmiclibrary) - Reusable PHP library engine
+- [Google Maps Scraper](https://github.com/yusufwardana/google-maps-scraper) — self-hosted scraper with configurable extraction and email enrichment
+- [Free Claude Code](https://github.com/yusufwardana/free-claude-code) — terminal, VS Code, and Discord access to Claude Code workflows
+- [MemVid](https://github.com/yusufwardana/memvid) — video-based AI memory library
+- [KaraSync](https://github.com/yusufwardana/karasync) — data synchronization utility
+- [eLibrary](https://github.com/yusufwardana/elibrary) — digital library management system
+- [0xKeinara](https://github.com/yusufwardana/0xKeinara) — full-stack web application
 
 ---
 
-## 🤝 Connect With Me
+## GitHub Activity
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yusufwardana)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusuf.wardana@example.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ysvwardana)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yusufwardana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=7AA2F7" alt="Yusuf's GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufwardana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7" alt="Top languages" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=yusufwardana&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7)](https://github.com/yusufwardana)
 
 </div>
 
 ---
 
-## 🎯 Getting Involved
+## Connect
 
-Interested in my projects? Here's how you can help:
+<div align="center">
 
-- 🐛 **Report bugs** - Found an issue? Let me know
-- ⭐ **Star projects** - Love a project? Give it a star
-- 💡 **Suggest features** - Have ideas? Open an issue
-- 📝 **Contribute code** - Check [CONTRIBUTING.md](./CONTRIBUTING.md) guides
-- 🤝 **Collaborate** - Let's build something cool together
+[![GitHub](https://img.shields.io/badge/GitHub-yusufwardana-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yusufwardana)
+[![Instagram](https://img.shields.io/badge/Instagram-ysvwardana-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ysvwardana)
 
-**Want to contribute?** Check out these projects with contribution guides:
-- [HexStrike AI - CONTRIBUTING.md](https://github.com/yusufwardana/hexstrike-ai/blob/main/CONTRIBUTING.md)
-- [Anti-Slop - CONTRIBUTING.md](https://github.com/yusufwardana/anti-slop/blob/main/CONTRIBUTING.md)
-- [Prompts.Chat - CONTRIBUTING.md](https://github.com/yusufwardana/prompts.chat/blob/main/CONTRIBUTING.md)
+</div>
 
 ---
 
 <div align="center">
 
-```
-// Passionate about building beautiful & functional software
-// Always learning, always shipping
-// Let's build something cool together! 🚀
+**Always learning. Always shipping.** 🚀
 
-process.exit(0);
-```
-
-**Last updated:** 2026-09-08 | Made with ❤️ by Yusuf Wardana
-
-[⬆ Back to top](#)
+<sub>Last updated: 2026-11-19</sub>
 
 </div>
